@@ -2,9 +2,6 @@
 
 **Four-Class Brain Tumor Classification** with Fine-Tuned EfficientNetB0, Grad-CAM Explainability, RBM Latent Features & VAE Image Synthesis
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)](https://streamlit.io/)
 
 > **Research prototype for decision support only — not a medical device and not intended for clinical diagnosis.**
 
